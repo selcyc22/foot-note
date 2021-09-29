@@ -30,3 +30,6 @@ cp: to copy a file
 # gitcomands
 
 git init : initializd a emty git repository
+git add: to add content 
+git status : to cheak status
+git cmmit -m : to change name and uplode
