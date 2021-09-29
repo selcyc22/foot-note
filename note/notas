@@ -1,0 +1,32 @@
+comand line 
+
+ls:opens directories
+
+dir -force:opens hidden files
+
+cd ~//:opens file directories of your choice
+
+clear:to erase
+
+mkdir: to make a folder 
+
+ $null > ?: to make file
+
+ mv ./..... ./....:to change the name
+mv:also to move files 
+
+rm: remove if there is content in folder that you remove it will ask you to conform 
+
+DONTDOTHIS :rm * or i will kill someone
+
+to open file put code then file name 
+
+echo: to replace content to a file 
+
+echo ".." >> :to add
+
+cp: to copy a file 
+
+# gitcomands
+
+git init : initializd a emty git repository
